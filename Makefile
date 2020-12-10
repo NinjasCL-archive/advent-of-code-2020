@@ -1,6 +1,6 @@
 WREN_VERSION = 0.3.0
 
-.PHONY: example wren-macos wren-linux
+.PHONY: wren-macos wren-linux
 
 wm wren-macos:
 	@wget https://github.com/wren-lang/wren-cli/releases/download/${WREN_VERSION}/wren_cli-mac-${WREN_VERSION}.zip

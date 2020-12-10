@@ -1,0 +1,25 @@
+# Advent of Code 2020 with Wren
+
+This are some solutions for https://adventofcode.com/2020
+using the https://wren.io[Wren] programming language.
+
+## Example
+
+```sh
+$ make wren-macos
+$ make d1p1
+```
+
+## 📘 LICENSE
+MIT
+
+## 🤩 Credits
+
+++++
+<p>
+  Made with <i class="fa fa-heart">&#9829;</i> by
+  <a href="https://ninjas.cl">
+    Ninjas.cl
+  </a>.
+</p>
+++++
