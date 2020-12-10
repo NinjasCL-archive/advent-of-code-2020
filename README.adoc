@@ -1,6 +1,6 @@
 # Advent of Code 2020 with Wren
 
-This are some solutions for https://adventofcode.com/2020
+These are some solutions for https://adventofcode.com/2020
 using the https://wren.io[Wren] programming language.
 
 ## Example
