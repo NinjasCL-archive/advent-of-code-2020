@@ -42,3 +42,9 @@ d4p1 day4p1:
 
 d4p2 day4p2:
 	./wren day/4/part2.wren
+
+d5p1 day5p1:
+	./wren day/5/part1.wren
+
+d5p2 day5p2:
+	./wren day/5/part2.wren
