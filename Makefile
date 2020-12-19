@@ -1,6 +1,9 @@
 WREN_VERSION = 0.3.0
 
-.PHONY: wren-macos wren-linux
+.PHONY: wren wren-macos wren-linux
+
+w wren:
+	./wren
 
 wm wren-macos:
 	@wget https://github.com/wren-lang/wren-cli/releases/download/${WREN_VERSION}/wren_cli-mac-${WREN_VERSION}.zip
@@ -48,3 +51,9 @@ d5p1 day5p1:
 
 d5p2 day5p2:
 	./wren day/5/part2.wren
+
+d6p1 day6p1:
+	./wren day/6/part1.wren
+
+d6p2 day6p2:
+	./wren day/6/part2.wren
